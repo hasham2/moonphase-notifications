@@ -1,0 +1,4 @@
+cron:
+- description: daily email notifications
+  url: /send
+  schedule: every 24 hours
